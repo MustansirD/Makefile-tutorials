@@ -1,0 +1,2 @@
+modules:
+	gcc hello.c

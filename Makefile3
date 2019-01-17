@@ -1,0 +1,5 @@
+KDIR := "foo"
+KDIR += "bar"
+
+all:
+	echo $(KDIR)
